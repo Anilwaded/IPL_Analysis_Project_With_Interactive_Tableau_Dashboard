@@ -27,7 +27,7 @@ Interactive features, such as filters and parameters, were incorporated to enabl
 #### Insights and Interpretations: 
 dashboard was accompanied by insightful interpretations of the visualizations, highlighting key trends, patterns, and noteworthy observations. These insights aimed to provide a comprehensive understanding of the IPL's history and its various dynamics.
 
-### Key Visualizations
+### Key Visualizations:
 #### 1. Year-wise Title Winners
 This dashboard displays the IPL champions for each year of the tournament. First KPI of the dashboard designed to showcase title winner of the each season.
 
